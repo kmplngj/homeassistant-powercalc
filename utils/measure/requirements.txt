@@ -4,7 +4,7 @@ async-timeout==3.0.1
 asyncclick==7.1.2.3
 attrs==21.2.0
 blessed==1.19.1
-certifi==2021.5.30
+certifi==2022.12.7
 chardet==4.0.0
 charset-normalizer==2.0.4
 gensim==3.8.1
